@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pimoroni_Pico_LiPo_2_XL_W")(type "KiCad")(uri "${KIPRJMOD}/Pimoroni_Pico_LiPo_2_XL_W.kicad_sym")(options "")(descr ""))
+)
